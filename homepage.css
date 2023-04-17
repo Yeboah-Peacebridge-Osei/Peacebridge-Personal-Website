@@ -1,0 +1,16 @@
+.intro {
+    background-color: antiquewhite;
+    text-emphasis-color: blue;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.resume {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.image {
+    text-align: center;
+}
